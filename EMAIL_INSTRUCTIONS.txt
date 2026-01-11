@@ -1,0 +1,19 @@
+Short instructions: attach the ZIP to an email
+
+For Gmail (web):
+1. Open https://mail.google.com and click "Compose".
+2. Click the paperclip icon (Attach files).
+3. Select `tik-tac-toe-react-windows.zip` and wait for upload.
+4. Add a recipient, subject and message. Send.
+
+For Outlook (web):
+1. Open https://outlook.office.com and click "New message".
+2. Click the paperclip icon and choose "Browse this computer".
+3. Select `tik-tac-toe-react-windows.zip` and upload.
+4. Add recipient and send.
+
+For large files (if ZIP > 25 MB):
+- Use a cloud link (Google Drive, OneDrive, Dropbox). Upload the ZIP and share a link.
+- In Gmail you can also use Google Drive's attachment dialog.
+
+Tip for the recipient: include `README-windows.txt` and `README-windows-en.txt` in the same folder; they contain instructions for running the game on Windows.

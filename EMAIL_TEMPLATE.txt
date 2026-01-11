@@ -1,0 +1,23 @@
+Subject: Tic‑Tac‑Toe (React) — build attached
+
+Hi,
+
+I attached a ZIP containing a ready-to-run build of the Tic‑Tac‑Toe React game.
+
+Instructions (short):
+- Unzip the archive.
+- Open `README-windows.txt` or `README-windows-en.txt` for run options.
+
+Recommended (robust):
+1. Install Node.js if not already installed: https://nodejs.org
+2. Open PowerShell in the unzipped folder and run:
+   `npx serve -s build -l 3000`
+3. Open `http://localhost:3000` in the browser.
+
+If you prefer not to install Node, open a terminal in the `build` folder and run:
+`py -3 -m http.server 3000` (then open `http://localhost:3000`).
+
+If anything doesn't work, reply to this email and I'll help.
+
+Best,
+[Dein Name]
